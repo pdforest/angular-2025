@@ -1,0 +1,4 @@
+Parentesis  () para emitir eventos
+Corchetes   [] para asignar atributos
+Señales        para cambiar de estados
+
